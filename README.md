@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessehlnd
 - 👀 I’m interested in mathematics, philosophy & computer science
 - 🌱 I’m currently learning about the Laravel framework and the C programming language
-- 💞️ I’m looking to collaborate on mathematical optimization and scientific programming
+- 💞️ I’m looking to collaborate on mathematical optimization and scientific computing
 - 📫 How to reach me ...
 
 <!---
